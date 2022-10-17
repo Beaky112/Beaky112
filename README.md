@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Beaky112
 - People often know me by the name Akash
 - 👀 I’m interested in  
-- 🌱 I’m currently learning C
+- 🌱 I’m currently learning Java
 - 💞️ I’m still a student
 - 📫 How to reach me ...
 
