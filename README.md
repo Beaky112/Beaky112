@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Beaky112
+- 👋 Hi, I’m @Akash
 - People often know me by the name Akash
 - 👀 I’m interested in  
 - 🌱 I’m currently learning Java
